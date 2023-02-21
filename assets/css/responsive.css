@@ -1,0 +1,165 @@
+@media only screen and (max-width: 767px) {
+
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .section-title {
+    margin: 0 auto 30px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .default-btn {
+    padding: 12px 30px;
+    font-size: 14px;
+  }
+
+  /* main-navbar */
+  .main-navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #000;
+  }
+  .main-navbar .navbar-toggler {
+    background-color: #fff;
+  }
+  .main-navbar .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .main-navbar.menu-shrink {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  /* hero-slider */
+  .hero-slider .slider-text h1 {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .hero-slider .slider-text p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  } 
+  .hero-slider .slider-text .slider-btn {
+    padding: 15px 25px;
+    font-size: 13px;
+  }
+  .hero-slider .owl-nav button.owl-prev, .hero-slider .owl-nav button.owl-next {
+    top: auto;
+    left: 30px;
+    width: 35px;
+    height: 35px;
+    font-size: 12px;
+    bottom: 30px;
+  }
+  .hero-slider .owl-nav button.owl-next {
+    left: auto;
+    right: 30px;
+  }
+
+  /* about-text */
+  .about-text {
+    padding-left: 0;
+    margin-top: 20px;
+  }
+
+  /* skill-card */
+  .skill-card h3 {
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+
+  /* service-card */
+  .service-card h3 {
+    margin-bottom: 15px;
+  }
+
+  /* feedback-card */
+  .feedback-card h3 {
+    font-size: 16px;
+  }
+
+  /* footer */
+  .footer {
+    text-align: center;
+  }
+  .footer ul {
+    margin: 10px 0 0;
+    text-align: center;
+  }
+  .footer ul li {
+    margin-left: 20px;
+  }
+  .footer ul li:first-child {
+    margin-left: 0;
+  }
+  .footer ul li a {
+    font-size: 15px;
+  }
+
+  /* backToTop */
+  #backToTop {
+    width: 35px;
+    height: 35px;
+    bottom: 20px;
+    right: 20px;
+    line-height: 35px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .pt-100 {
+    padding-top: 70px;
+  }
+  .pb-70 {
+    padding-bottom: 40px;
+  }
+  .section-title {
+    margin: 0 auto 30px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .default-btn {
+    padding: 12px 30px;
+    font-size: 14px;
+  }
+
+  /* main-navbar */
+  .main-navbar .navbar-nav .nav-link {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* about-text */
+  .about-text {
+    padding-left: 0;
+  }
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+}
